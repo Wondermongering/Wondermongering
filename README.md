@@ -1,7 +1,6 @@
 # Wondermonger
 
-Prompt architect. Alignment tinkerer. Builder of Eigen‑Koan contraptions that turn shell prompts into small lightning storms of insight. :contentReference[oaicite:0]{index=0}
-
+Prompt architect. Alignment tinkerer. Builder of Eigen‑Koan contraptions that turn shell prompts into small lightning storms of insight.
 ## Selected Works
 - **Latent‑Exploration‑Stack** — research playground where the Eigen‑Koan Matrix and other interpretability tools get stress‑tested.
 - **Claude‑LaTeX MCP Bridge** — docks Anthropic’s Model‑Context‑Protocol to your TeX editor so equations chat back.
@@ -11,8 +10,7 @@ Prompt architect. Alignment tinkerer. Builder of Eigen‑Koan contraptions that 
 - **HomoGenius** — React lens for homogeneous ODEs; math meets D3 swagger.
 
 ## Contact
-`@fireandvision` on X / Bluesky. Time‑zone: UTC‑3. :contentReference[oaicite:7]{index=7}
-
+`@fireandvision` on X / Bluesky. Time‑zone: UTC‑3. 
 ## Ethos
 Logos is spell‑craft; fork wisely. Most repos: MIT or Apache‑2.  
 “Keep the loops tight, the prose loose, and the gradient flowing.”
