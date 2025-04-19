@@ -10,7 +10,7 @@ Prompt architect. Alignment tinkerer. Builder of Eigen‑Koan contraptions that 
 - **HomoGenius** — React lens for homogeneous ODEs; math meets D3 swagger.
 
 ## Contact
-`@fireandvision` on X / Bluesky. Time‑zone: UTC‑3. 
+`@fireandvision` on X / Bluesky or tomaspellissaripavan@gmail.com Time‑zone: UTC‑3. 
 ## Ethos
 Logos is spell‑craft; fork wisely. Most repos: MIT or Apache‑2.  
 “Keep the loops tight, the prose loose, and the gradient flowing.”
