@@ -7,6 +7,7 @@ Prompt architect. Alignment tinkerer. Builder of Eigen‑Koan contraptions that 
 - **Blanchotian Components** — neural layers that privilege hesitation and absence over certainty.
 - **Cultural‑Neural Hermeneutics** — mapping philosophical bias inside gradient space.
 - **text2anki** — prose → spaced‑repetition cards in one incantation.
+- **Eigen-Koan Matrices** — structured paradox prompts for probing constraint hierarchies, affective priors, and model self-reflection across semantic lattices.
 - **HomoGenius** — React lens for homogeneous ODEs; math meets D3 swagger.
 
 ## Contact
